@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="54"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="DeathDomainDescription"/>
+                    <attribute id="DisplayName" type="FixedString" value="DeathDomainDisplayName"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="add4ea4d-5a82-4959-af4f-2569248d7dfc9"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="DeathDomain"/>
+                    <attribute id="UUID" type="guid" value="e68e9331-a8d1-4ff8-a76b-a840e00772cd"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

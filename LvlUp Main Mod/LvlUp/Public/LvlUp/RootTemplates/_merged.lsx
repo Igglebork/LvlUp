@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="0" minor="0" revision="0" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="BloodSurfaceType" type="22" value="SurfaceNone" />
+					<attribute id="CharacterVisualResourceID" type="22" value="241f9195-5b43-d48c-4690-5e5d8b2b475f" />
+					<attribute id="DisplayName" type="28" handle="hbd4e12bcg66d1g4342g9209g17f5036abe56" version="1" />
+					<attribute id="Flag" type="4" value="0" />
+					<attribute id="Icon" type="22" value="241f9195-5b43-d48c-4690-5e5d8b2b475f-_(Icon_Zombie)" />
+					<attribute id="LevelName" type="22" value="" />
+					<attribute id="MapKey" type="22" value="17684056-f30e-4df3-92b0-18f5e9233641" />
+					<attribute id="Name" type="23" value="Zombie_Mod" />
+					<attribute id="ParentTemplateId" type="22" value="5b2827cb-1cf9-4cd5-9b58-0f7eb4657f0c" />
+					<attribute id="Title" type="28" handle="hc4ad5b04g8caeg4d23gaac6g1a1f00db8e57" version="1" />
+					<attribute id="Type" type="22" value="character" />
+					<attribute id="_OriginalFileVersion_" type="32" value="144115188075855919" />
+					<children>
+						<node id="GameMaster" />
+						<node id="LocomotionParams" />
+						<node id="TradeTreasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="22" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="Treasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="22" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

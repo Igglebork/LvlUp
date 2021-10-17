@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="47"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="0"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ClassEquipment" type="FixedString" value=""/>
+                    <attribute id="Description" type="FixedString" value="The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures."/>
+                    <attribute id="DisplayName" type="FixedString" value="Death Domain"/>
+                    <attribute id="HasGod" type="bool" value="false"/>
+                    <attribute id="HpPerLevel" type="int32" value="0"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MagicType" type="uint8" value="2"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="DeathDomain"/>
+                    <attribute id="ParentGuid" type="guid" value="114e7aee-d1d4-4371-8d90-8a2080592faf"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="5"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="add4ea4d-5a82-4959-af4f-2569248d7dfc9"/>
+                    <attribute id="SoundMagicType" type="uint8" value="1"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+                    <attribute id="UUID" type="guid" value="a36a2ac3-68b5-41f3-b6c1-82f85021cdfe"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

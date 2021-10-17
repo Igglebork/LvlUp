@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="21"/>
+    <region id="ActionResourceGroupDefinitions">
+        <node id="root">
+            <children>
+				<node id="ActionResourceGroupDefinition"> Extra action points to allow for multiple attacks but not multiple spells
+                    <attribute id="ActionResourceDefinitions" type="LSString" value="734cbcfb-8922-4b6d-8330-b2a7e4c14b6a;6817b9fc-0326-4640-82cd-042fc4c8bb04"/>
+                    <attribute id="Name" type="LSString" value="ActionPointsGroup"/>
+                    <attribute id="UUID" type="guid" value="fe5f31d7-35a3-445e-b88a-a892c5c6bd34"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

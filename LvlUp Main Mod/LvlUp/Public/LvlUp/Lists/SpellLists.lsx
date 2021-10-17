@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList"> Cleric Life Domain 5
+                    <attribute id="Spells" type="LSString" value="Target_Sleep;Target_Command_Halt;Target_Command_Approach;Target_Command_Drop;Target_Command_Flee;Target_Command_Grovel;Target_Revivify;Target_RaiseDead;Shout_DivineFavor"/>
+                    <attribute id="UUID" type="guid" value="e8530394-bc38-4f60-9849-ae3dd2bc04ee"/>
+                </node>
+                <node id="SpellList"> Cleric 7 Spells
+                    <attribute id="Spells" type="LSString" value="Target_Banishment;Shout_BeaconOfHope;Shout_SpiritGuardians_Cleric;Target_CalmEmotions;Target_EnhanceAbility;Shout_HealingWord_Mass;Shout_DetectEvilAndGood;Shout_ComprehendLanguages;Target_BestowCurse_Ability;Target_Sanctuary;Target_RemoveCurse"/>
+                    <attribute id="UUID" type="guid" value="64b1cccc-83fe-43d5-befe-cf6fd4c77eec"/>
+                </node>
+                <node id="SpellList"> Cleric 7 Actions
+                    <attribute id="Spells" type="LSString" value="Shout_PreserveLife;Shout_RadianceOfTheDawn"/>
+                    <attribute id="UUID" type="guid" value="87d8bb09-4e4b-479a-8ab3-3c20ed5c9b55"/>
+                </node>
+                <node id="SpellList"> Cleric Light Domain 5
+                    <attribute id="Spells" type="LSString" value="Target_Command_Halt;Target_Command_Approach;Target_Command_Flee;Target_Command_Drop;Target_Command_Grovel;Projectile_Fireball;Target_Scrying;Shout_FlameBlade"/>
+                    <attribute id="UUID" type="guid" value="4739dd7e-311f-499f-b053-fa221c0cc300"/>
+                </node>
+                <node id="SpellList"> Cleric Trickery Domain 5
+                    <attribute id="Spells" type="LSString" value="Target_Command_Halt;Target_Command_Approach;Target_Command_Drop;Target_Command_Flee;Target_Command_Grovel;Target_DispelMagic;Shout_MirrorImage_TrickeryCleric;Shout_PassWithoutTrace"/>
+                    <attribute id="UUID" type="guid" value="9f603ac8-2e51-4ce9-b924-c8093148bdf5"/>
+                </node>
+                <node id="SpellList"> Wizard
+                    <attribute id="Spells" type="LSString" value="Target_FlamingSphere;Projectile_FreezingSphere;Target_Disintigrate;Target_VampiricTouch;Target_Power_Word_Kill;Projectile_MeteorSwarm;Target_HypnoticPattern;Zone_ConeOfCold;Projectile_AcidArrow;Target_Blindness;Shout_Blur;Target_Darkness;Target_Darkvision;Shout_DetectThoughts;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Projectile_ScorchingRay;Target_Shatter;Target_Web;Zone_BurningHands;Target_CharmPerson;Zone_ColorSpray;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Shout_FalseLife;Shout_FeatherFall;Target_FindFamiliar;Target_FogCloud;Target_Grease;Target_Jump;Target_Longstrider;Target_MageArmor;Projectile_ChromaticOrb;Projectile_MagicMissile;Target_ProtectionFromEvilAndGood;Projectile_RayOfSickness;Target_Sleep;Zone_Thunderwave;Projectile_WitchBolt;Projectile_Fireball"/>
+                    <attribute id="UUID" type="guid" value="80c6b070-c3a6-4864-84ca-e78626784eb4"/>
+                </node>
+                <node id="SpellList"> Great Old One Lvl 2 Spells
+                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Target_Darkness;Shout_DetectThoughts;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Target_Shatter;Target_Silence;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Target_DissonantWhispers;Shout_ExpeditiousRetreat;Shout_HellishRebuke;Target_Hex;Target_HideousLaughter;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
+                    <attribute id="UUID" type="guid" value="fe101a94-8619-49b2-859d-a68c2c291054"/>
+                </node>
+				<node id="SpellList"> Great Old One Lvl 3 Spells
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch;Target_HypnoticPattern_Warlock_3;Target_Darkness_Warlock_3;Shout_DetectThoughts_Warlock_3;Target_HoldPerson_Warlock_3;Target_Invisibility_Warlock_3;Shout_MirrorImage_Warlock_3;Target_MistyStep_Warlock_3;Projectile_RayOfEnfeeblement_Warlock_3;Target_Shatter_Warlock_3;Target_Silence_Warlock_3;Shout_ArmorOfAgathys_Warlock_3;Shout_ArmsOfHadar_Warlock_3;Target_CharmPerson_Warlock_3;Target_DissonantWhispers_Warlock_3;Shout_ExpeditiousRetreat_Warlock_3;Shout_HellishRebuke_Warlock_3;Target_Hex_Warlock_3;Target_HideousLaughter_Warlock_3;Target_ProtectionFromEvilAndGood_Warlock_3;Projectile_WitchBolt_Warlock_3"/>
+                    <attribute id="UUID" type="guid" value="540046e0-ffbe-41d2-906f-4aa66a673f73"/>
+                </node>	
+				<node id="SpellList"> Great Old One Lvl 4 Spells
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_4;Target_HypnoticPattern_Warlock_4;Target_Darkness_Warlock_4;Shout_DetectThoughts_Warlock_4;Target_HoldPerson_Warlock_4;Target_Invisibility_Warlock_4;Shout_MirrorImage_Warlock_4;Target_MistyStep_Warlock_4;Projectile_RayOfEnfeeblement_Warlock_4;Target_Shatter_Warlock_4;Target_Silence_Warlock_4;Shout_ArmorOfAgathys_Warlock_4;Shout_ArmsOfHadar_Warlock_4;Target_CharmPerson_Warlock_4;Target_DissonantWhispers_Warlock_4;Shout_ExpeditiousRetreat_Warlock_4;Shout_HellishRebuke_Warlock_4;Target_Hex_Warlock_4;Target_HideousLaughter_Warlock_4;Target_ProtectionFromEvilAndGood_Warlock_4;Projectile_WitchBolt_Warlock_4"/>
+                    <attribute id="UUID" type="guid" value="7405e699-ab1d-4d8d-b7ce-62a1f5cdffb4"/>
+                </node>	
+				<node id="SpellList"> Great Old One Lvl 5 Spells
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_5;Target_HypnoticPattern_Warlock_5;Target_Darkness_Warlock_5;Shout_DetectThoughts_Warlock_5;Target_HoldPerson_Warlock_5;Target_Invisibility_Warlock_5;Shout_MirrorImage_Warlock_5;Target_MistyStep_Warlock_5;Projectile_RayOfEnfeeblement_Warlock_5;Target_Shatter_Warlock_5;Target_Silence_Warlock_5;Shout_ArmorOfAgathys_Warlock_5;Shout_ArmsOfHadar_Warlock_5;Target_CharmPerson_Warlock_5;Target_DissonantWhispers_Warlock_5;Shout_ExpeditiousRetreat_Warlock_5;Shout_HellishRebuke_Warlock_5;Target_Hex_Warlock_5;Target_HideousLaughter_Warlock_5;Target_ProtectionFromEvilAndGood_Warlock_5;Projectile_WitchBolt_Warlock_5"/>
+                    <attribute id="UUID" type="guid" value="4a79a833-0f35-44ac-abcc-9adc10c56f6b"/>
+                </node>	
+				<node id="SpellList"> Great Old One Lvl 6 Spells Arcanum
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_6;Target_Shatter_Warlock_6;Shout_ArmsOfHadar_Warlock_6;Target_DissonantWhispers_Warlock_6;Projectile_WitchBolt_Warlock_6"/>
+                    <attribute id="UUID" type="guid" value="9274aae1-1172-4001-ae2f-7cd3662dde74"/>
+                </node>	
+				<node id="SpellList"> Great Old One Lvl 7 Spells Arcanum
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_7;Target_Shatter_Warlock_7;Shout_ArmsOfHadar_Warlock_7;Target_DissonantWhispers_Warlock_7;Projectile_WitchBolt_Warlock_7"/>
+                    <attribute id="UUID" type="guid" value="23140f5e-a53b-4b14-b9fb-fb234781950d"/>
+                </node>	
+				<node id="SpellList"> Great Old One Lvl 8 Spells Arcanum
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_8;Target_Shatter_Warlock_8;Shout_ArmsOfHadar_Warlock_8;Target_DissonantWhispers_Warlock_8;Projectile_WitchBolt_Warlock_8"/>
+                    <attribute id="UUID" type="guid" value="f46f6017-429e-4ee0-a875-38511ccc427d"/>
+                </node>	
+				<node id="SpellList"> Great Old One Lvl 9 Spells Arcanum
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_9;Target_Power_Word_Kill_Warlock;Target_Shatter_Warlock_9;Shout_ArmsOfHadar_Warlock_9;Target_DissonantWhispers_Warlock_9;Projectile_WitchBolt_Warlock_9"/>
+                    <attribute id="UUID" type="guid" value="5fa370c5-5501-4111-8241-ca4773e4ce00"/>
+                </node>	
+                <node id="SpellList"> Fiend Lvl 2 Spells
+                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Target_Blindness;Target_Darkness;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Projectile_ScorchingRay;Target_Shatter;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Zone_BurningHands_Warlock_2;Target_CharmPerson;Target_Command_Halt;Shout_ExpeditiousRetreat;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt"/>
+                    <attribute id="UUID" type="guid" value="835aeca7-c64a-4aaa-a25c-143aa14a5cec"/>
+                </node>
+                <node id="SpellList"> Fiend Lvl 3 Spells
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch;Target_HypnoticPattern_Warlock_3;Target_Blindness_Warlock_3;Target_Darkness_Warlock_3;Target_HoldPerson_Warlock_3;Target_Invisibility_Warlock_3;Shout_MirrorImage_Warlock_3;Target_MistyStep_Warlock_3;Projectile_RayOfEnfeeblement_Warlock_3;Projectile_ScorchingRay_Warlock_3;Target_Shatter_Warlock_3;Shout_ArmorOfAgathys_Warlock_3;Shout_ArmsOfHadar_Warlock_3;Zone_BurningHands_Warlock_3;Target_CharmPerson_Warlock_3;Target_Command_Halt_Warlock_3;Shout_ExpeditiousRetreat_Warlock_3;Shout_HellishRebuke_Warlock_3;Target_Hex_Warlock_3;Target_ProtectionFromEvilAndGood_Warlock_3;Projectile_WitchBolt_Warlock_3"/>
+                    <attribute id="UUID" type="guid" value="0aa0ea57-0943-44ad-87c8-5a966647820a"/>
+                </node>
+				<node id="SpellList"> Fiend Lvl 4 Spells
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_4;Target_HypnoticPattern_Warlock_4;Target_Blindness_Warlock_4;Target_Darkness_Warlock_4;Target_HoldPerson_Warlock_4;Target_Invisibility_Warlock_4;Shout_MirrorImage_Warlock_4;Target_MistyStep_Warlock_4;Projectile_RayOfEnfeeblement_Warlock_4;Projectile_ScorchingRay_Warlock_4;Target_Shatter_Warlock_4;Shout_ArmorOfAgathys_Warlock_4;Shout_ArmsOfHadar_Warlock_4;Zone_BurningHands_Warlock_4;Target_CharmPerson_Warlock_4;Target_Command_Halt_Warlock_4;Shout_ExpeditiousRetreat_Warlock_4;Shout_HellishRebuke_Warlock_4;Target_Hex_Warlock_4;Target_ProtectionFromEvilAndGood_Warlock_4;Projectile_WitchBolt_Warlock_4"/>
+                    <attribute id="UUID" type="guid" value="e7d8fc95-afdb-4d9c-82e0-8912611f4def"/>
+                </node>
+                <node id="SpellList"> Fiend Lvl 5 Spells
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_5;Target_HypnoticPattern_Warlock_5;Target_Blindness_Warlock_5;Target_Darkness_Warlock_5;Target_HoldPerson_Warlock_5;Target_Invisibility_Warlock_5;Shout_MirrorImage_Warlock_5;Target_MistyStep_Warlock_5;Projectile_RayOfEnfeeblement_Warlock_5;Projectile_ScorchingRay_Warlock_5;Target_Shatter_Warlock_5;Shout_ArmorOfAgathys_Warlock_5;Shout_ArmsOfHadar_Warlock_5;Zone_BurningHands_Warlock_5;Target_CharmPerson_Warlock_5;Target_Command_Halt_Warlock_5;Shout_ExpeditiousRetreat_Warlock_5;Shout_HellishRebuke_Warlock_5;Target_Hex_Warlock_5;Target_ProtectionFromEvilAndGood_Warlock_5;Projectile_WitchBolt_Warlock_5"/>
+                    <attribute id="UUID" type="guid" value="3f5e5e10-cf7c-456b-aec3-140b134ec7d5"/>
+                </node>
+				<node id="SpellList"> Fiend Lvl 6 Spells Arcanum
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_6;Target_Shatter_Warlock_6;Shout_ArmsOfHadar_Warlock_6;Projectile_ScorchingRay_Warlock_6;Zone_BurningHands_Warlock_6;Projectile_WitchBolt_Warlock_6"/>
+                    <attribute id="UUID" type="guid" value="ddc9ac3e-e6e4-497e-9ebd-d2fa1bda27cf"/>
+                </node>	
+				<node id="SpellList"> Fiend Lvl 7 Spells Arcanum
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_7;Target_Shatter_Warlock_7;Shout_ArmsOfHadar_Warlock_7;Projectile_ScorchingRay_Warlock_7;Zone_BurningHands_Warlock_7;Projectile_WitchBolt_Warlock_7"/>
+                    <attribute id="UUID" type="guid" value="c84831b9-c93e-48f9-b4a2-9e3b17b2ba8f"/>
+                </node>	
+				<node id="SpellList"> Fiend Lvl 8 Spells Arcanum
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_8;Target_Shatter_Warlock_8;Shout_ArmsOfHadar_Warlock_8;Projectile_ScorchingRay_Warlock_8;Zone_BurningHands_Warlock_8;Projectile_WitchBolt_Warlock_8"/>
+                    <attribute id="UUID" type="guid" value="1416bbcd-6253-46b9-8a33-f54095047580"/>
+                </node>	
+				<node id="SpellList"> Fiend Lvl 9 Spells Arcanum
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch_Warlock_9;Target_Power_Word_Kill_Warlock;Target_Shatter_Warlock_9;Shout_ArmsOfHadar_Warlock_9;Projectile_ScorchingRay_Warlock_9;Zone_BurningHands_Warlock_9;Projectile_WitchBolt_Warlock_9"/>
+                    <attribute id="UUID" type="guid" value="405a5791-1b07-4c5c-9127-89d95254b491"/>
+                </node>	
+				<node id="SpellList"> Warlock Eldritch Master
+                    <attribute id="Spells" type="LSString" value="Shout_EldritchMaster"/>
+                    <attribute id="UUID" type="guid" value="b54d75e2-7384-44aa-abbf-ef71f5944b41"/>
+                </node>	
+                <node id="SpellList"> Ranger
+                    <attribute id="Spells" type="LSString" value="Target_Silence;Target_AnimalFriendship;Target_CureWounds;Projectile_EnsnaringStrike_Container;Target_FogCloud;Target_Goodberry;Projectile_HailOfThorns;Target_HuntersMark;Target_Jump;Target_Longstrider;Shout_SpeakWithAnimals"/>
+                    <attribute id="UUID" type="guid" value="458be063-60d4-4548-ae7d-50117fa0226f"/>
+                </node>
+                <node id="SpellList"> Arcane Trickster
+                    <attribute id="Spells" type="LSString" value="Target_Longstrider;Shout_FeatherFall;Target_Darkvision;Shout_DetectThoughts;Target_Invisibility;Target_HypnoticPattern;Target_Blindness;Target_CharmPerson;Zone_ColorSpray;Shout_DisguiseSelf;Shout_Blur;Target_Darkness;Target_HideousLaughter;Target_Sleep"/>
+                    <attribute id="UUID" type="guid" value="4b629bbb-203b-4382-9786-755bf897567f"/>
+                </node>
+                <node id="SpellList"> Death Cleric Cantrips
+                    <attribute id="Spells" type="LSString" value="Target_ChillTouch;Target_SpareTheDying"/>
+                    <attribute id="UUID" type="guid" value="8c47b11c-88b4-49a5-99d0-804ab724365e"/>
+                </node>
+                <node id="SpellList"> Death Cleric Lvl 1 Spells
+                    <attribute id="Spells" type="LSString" value="Shout_FalseLife;Projectile_RayOfSickness"/>
+                    <attribute id="UUID" type="guid" value="8c47b11c-88b4-49a5-99d0-804ab724365"/>
+                </node>
+                <node id="SpellList"> Death Cleric Lvl 2 Spells (Cleric LVl 3)
+                    <attribute id="Spells" type="LSString" value="Target_Blindness;Projectile_RayOfEnfeeblement;Target_Deafness"/>
+                    <attribute id="UUID" type="guid" value="d41f3dca-afc9-4c6d-a44a-e852080d628d"/>
+                </node>
+                <node id="SpellList"> Death Cleric Channel Divinity - Touch of Death(Cleric LVl 3)
+                    <attribute id="Spells" type="LSString" value="Target_TouchOfDeath"/>
+                    <attribute id="UUID" type="guid" value="17607af7-c1ca-497d-a316-0157952b9bf7"/>
+                </node>
+                <node id="SpellList"> Death Cleric Lvl 3 Spells (Cleric LVl 5)
+                    <attribute id="Spells" type="LSString" value="Target_VampiricTouch;Target_AnimateDead_Cleric"/>
+                    <attribute id="UUID" type="guid" value="9530eb2b-e72c-44fc-9fb8-6f1370fc0ded"/>
+                </node>
+                <node id="SpellList"> Death Cleric Lvl 4 Spells (Cleric Lvl 7)
+                    <attribute id="Spells" type="LSString" value="Target_Blight"/>
+                    <attribute id="UUID" type="guid" value="b057f3b2-4a22-4a36-b31b-0c5c833f1871"/>
+                </node>
+                <node id="SpellList"> Death Cleric Divine Strike (Cleric Lvl 8)
+                    <attribute id="Spells" type="LSString" value="Target_DivineStrike;Projectile_DivineStrikeRanged"/>
+                    <attribute id="UUID" type="guid" value="a02c1b8c-5c70-4aa7-b97f-3d0fc84132a4"/>
+                </node>
+                <node id="SpellList"> Death Cleric Lvl 5 Spells (Cleric Lvl 9)
+                    <attribute id="Spells" type="LSString" value="Target_RaiseDead"/>
+                    <attribute id="UUID" type="guid" value="7f9174c3-ec47-4a30-9fdc-c8d0c721c762"/>
+                </node>
+                <node id="SpellList"> Death Cleric Lvl 6 Spells (Cleric Lvl 11)
+                    <attribute id="Spells" type="LSString" value="Target_CircleOfDeath"/>
+                    <attribute id="UUID" type="guid" value="73dc8339-b0af-4cbc-a2be-f053c60789cb"/>
+                </node>
+                <node id="SpellList"> Death Cleric Lvl 9 Spells (Cleric Lvl 17)
+                    <attribute id="Spells" type="LSString" value="Target_Power_Word_Kill;Teleportation_TrueResurrection_Cleric"/>
+                    <attribute id="UUID" type="guid" value="1620602b-0e97-4fda-952c-ec0251fd67df"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

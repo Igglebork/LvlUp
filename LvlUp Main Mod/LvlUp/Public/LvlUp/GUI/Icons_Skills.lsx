@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="64"/>
+                    <attribute id="Width" type="int32" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/Icons_Skills.dds"/>
+                    <attribute id="UUID" type="FixedString" value="7373f338-0992-4f16-e15e-887c9774d972"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="2048"/>
+                    <attribute id="Width" type="int32" value="2048"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_SpareTheDying_Icon"/> Buff Icon
+                    <attribute id="U1" type="float" value="0.062744141"/> Left
+                    <attribute id="U2" type="float" value="0.093505859"/> Right
+                    <attribute id="V1" type="float" value="0.15649414"/> Top
+                    <attribute id="V2" type="float" value="0.18725586"/> Bottom 
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_CalmEmotions_Icon"/> Flail Icon
+                    <attribute id="U1" type="float" value="0.78149414"/>
+                    <attribute id="U2" type="float" value="0.81225586"/>
+                    <attribute id="V1" type="float" value="0.28149414"/>
+                    <attribute id="V2" type="float" value="0.31225586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_Deafness_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.87524414"/>
+                    <attribute id="U2" type="float" value="0.90600586"/>
+                    <attribute id="V1" type="float" value="0.31274414"/>
+                    <attribute id="V2" type="float" value="0.34350586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_TouchOfDeath_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.31274414"/>
+                    <attribute id="U2" type="float" value="0.34350586"/>
+                    <attribute id="V1" type="float" value="0.062744141"/>
+                    <attribute id="V2" type="float" value="0.093505859"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_Blight_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.031494141"/>
+                    <attribute id="U2" type="float" value="0.062255859"/>
+                    <attribute id="V1" type="float" value="0.34399414"/>
+                    <attribute id="V2" type="float" value="0.37475586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_Disintegrate_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.21899414"/>
+                    <attribute id="U2" type="float" value="0.24975586"/>
+                    <attribute id="V1" type="float" value="0.18774414"/>
+                    <attribute id="V2" type="float" value="0.21850586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_CircleOfDeath_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.75024414"/>
+                    <attribute id="U2" type="float" value="0.78100586"/>
+                    <attribute id="V1" type="float" value="0.031494141"/>
+                    <attribute id="V2" type="float" value="0.062255859"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Teleportation_TrueResurrection_Cleric_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.37524414"/>
+                    <attribute id="U2" type="float" value="0.40600586"/>
+                    <attribute id="V1" type="float" value="0.031494141"/>
+                    <attribute id="V2" type="float" value="0.062255859"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_EnhanceAbility_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.93774414"/>
+                    <attribute id="U2" type="float" value="0.96850586"/>
+                    <attribute id="V1" type="float" value="0.31274414"/>
+                    <attribute id="V2" type="float" value="0.34350586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Shout_HealingWord_Mass_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.96899414"/>
+                    <attribute id="U2" type="float" value="0.99975586"/>
+                    <attribute id="V1" type="float" value="0.31274414"/>
+                    <attribute id="V2" type="float" value="0.34350586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_Sanctuary_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.62524414"/>
+                    <attribute id="U2" type="float" value="0.65600586"/>
+                    <attribute id="V1" type="float" value="0.18774414"/>
+                    <attribute id="V2" type="float" value="0.21850586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_RaiseDead_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.062744141"/>
+                    <attribute id="U2" type="float" value="0.093505859"/>
+                    <attribute id="V1" type="float" value="0.34399414"/>
+                    <attribute id="V2" type="float" value="0.37475586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_RemoveCurse_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.96899414"/>
+                    <attribute id="U2" type="float" value="0.99975586"/>
+                    <attribute id="V1" type="float" value="0.12524414"/>
+                    <attribute id="V2" type="float" value="0.15600586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_BestowCurse_Ability_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.90649414"/>
+                    <attribute id="U2" type="float" value="0.93725586"/>
+                    <attribute id="V1" type="float" value="0.31274414"/>
+                    <attribute id="V2" type="float" value="0.34350586"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Target_DivineStrike_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.25024414"/>
+                    <attribute id="U2" type="float" value="0.28100586"/>
+                    <attribute id="V1" type="float" value="0.062744141"/>
+                    <attribute id="V2" type="float" value="0.093505859"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Projectile_DivineStrikeRanged_Icon"/> Attack Icon
+                    <attribute id="U1" type="float" value="0.28149414"/>
+                    <attribute id="U2" type="float" value="0.31225586"/>
+                    <attribute id="V1" type="float" value="0.062744141"/>
+                    <attribute id="V2" type="float" value="0.093505859"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
