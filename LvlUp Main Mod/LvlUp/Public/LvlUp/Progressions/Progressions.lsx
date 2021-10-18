@@ -2427,7 +2427,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ActionResource(SorceryPoint,1,0)"/>
                     <attribute id="Level" type="uint8" value="20"/>
                     <attribute id="Name" type="LSString" value="Sorcerer"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="SorcerousRestoration"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
@@ -2446,7 +2446,7 @@
                     <attribute id="TableUUID" type="guid" value="35aa255d-3eb7-4e93-8092-7545ced25b09"/>
                     <attribute id="UUID" type="guid" value="09c6729fe6b1414ea1d0837180fabed9"/>
                 </node>
-                <node id="Progression"> Sorcerer Draconic 6 - Sorcerous Origin - Should be Draconic Resilience - Feat in leau
+                <node id="Progression"> Sorcerer Draconic 6 - Sorcerous Origin - Should be Elemental Affinity - Not yet done
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="6"/>
@@ -2454,7 +2454,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,2,2,FeatASI)"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="35aa255d-3eb7-4e93-8092-7545ced25b09"/>
                     <attribute id="UUID" type="guid" value="2f6b688ad4544404865a39658b3a458d"/>
                 </node>
@@ -2542,7 +2542,7 @@
                     <attribute id="TableUUID" type="guid" value="35aa255d-3eb7-4e93-8092-7545ced25b09"/>
                     <attribute id="UUID" type="guid" value="f505b817416b4516bfb72965f0bc1db1"/>
                 </node>
-                <node id="Progression"> Sorcerer Draconic 14 - Sorcerous Origin - Should be Dragon Wings - Feat in leau
+                <node id="Progression"> Sorcerer Draconic 14 - Sorcerous Origin - Draconic Wings
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="14"/>
@@ -2550,7 +2550,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,2,2,FeatASI)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d27e53863f9346799f9dbfc6017fcdd2,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="35aa255d-3eb7-4e93-8092-7545ced25b09"/>
                     <attribute id="UUID" type="guid" value="cf5ce7b5034041999d16088a58d7c081"/>
                 </node>
@@ -2590,7 +2590,7 @@
                     <attribute id="TableUUID" type="guid" value="35aa255d-3eb7-4e93-8092-7545ced25b09"/>
                     <attribute id="UUID" type="guid" value="1cfbf991acf24b398d07fdb9d1c66af2"/>
                 </node>
-                <node id="Progression"> Sorcerer Draconic 18 - Sorcerous Origin - Should be Draconic Presence - Feat in leau
+                <node id="Progression"> Sorcerer Draconic 18 - Sorcerous Origin - Draconic Presence
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="18"/>
@@ -2598,7 +2598,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectAbilities(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,2,2,FeatASI)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(027d3f7ee3654bd281ccdb542189cd4a,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="35aa255d-3eb7-4e93-8092-7545ced25b09"/>
                     <attribute id="UUID" type="guid" value="e93078ffa66c40048084eb16214f86dc"/>
                 </node>
