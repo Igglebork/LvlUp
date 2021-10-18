@@ -148,6 +148,14 @@
                     <attribute id="Spells" type="LSString" value="Projectile_Fireball;Zone_ConeOfCold;Target_CircleOfDeath;Target_Disintigrate;Target_Power_Word_Kill;Projectile_MeteorSwarm;Target_CloudOfDaggers;Target_CrownOfMadness;Target_MistyStep;Target_Web;Shout_DetectThoughts;Target_EnlargeReduce;Target_HoldPerson;Target_Darkness;Projectile_ScorchingRay;Target_Shatter;Shout_Blur;Target_Invisibility;Shout_MirrorImage;Target_Blindness;Target_Darkvision;Target_EnhanceAbility;Projectile_ChromaticOrb;Target_FogCloud;Target_CharmPerson;Target_Sleep;Zone_BurningHands;Projectile_MagicMissile;Target_MageArmor;Zone_Thunderwave;Projectile_WitchBolt;Zone_ColorSpray;Shout_DisguiseSelf;Shout_FalseLife;Projectile_RayOfSickness;Shout_ExpeditiousRetreat;Shout_FeatherFall;Target_Jump"/>
                     <attribute id="UUID" type="guid" value="f80396e2-cb76-4694-b0db-5c34da61a478"/>
                 </node>
+                <node id="SpellList"> Sorcerer Draconic Flight
+                    <attribute id="Spells" type="LSString" value="Shout_DraconicWings;Shout_DraconicWingsCancel"/>
+                    <attribute id="UUID" type="guid" value="d27e53863f9346799f9dbfc6017fcdd2"/>
+                </node>
+                <node id="SpellList"> Sorcerer Draconic Presence
+                    <attribute id="Spells" type="LSString" value="Shout_DraconicPresence_Fear;Shout_DraconicPresence_Awe"/>
+                    <attribute id="UUID" type="guid" value="027d3f7ee3654bd281ccdb542189cd4a"/>
+                </node>
             </children>
         </node>
     </region>
