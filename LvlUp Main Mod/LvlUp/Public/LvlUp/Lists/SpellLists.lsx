@@ -144,7 +144,13 @@
                     <attribute id="Spells" type="LSString" value="Target_Power_Word_Kill;Teleportation_TrueResurrection_Cleric"/>
                     <attribute id="UUID" type="guid" value="1620602b-0e97-4fda-952c-ec0251fd67df"/>
                 </node>
+                <node id="SpellList"> Sorcerer Spell List with added spells
+                    <attribute id="Spells" type="LSString" value="Projectile_Fireball;Zone_ConeOfCold;Target_CircleOfDeath;Target_Disintigrate;Target_Power_Word_Kill;Projectile_MeteorSwarm;Target_CloudOfDaggers;Target_CrownOfMadness;Target_MistyStep;Target_Web;Shout_DetectThoughts;Target_EnlargeReduce;Target_HoldPerson;Target_Darkness;Projectile_ScorchingRay;Target_Shatter;Shout_Blur;Target_Invisibility;Shout_MirrorImage;Target_Blindness;Target_Darkvision;Target_EnhanceAbility;Projectile_ChromaticOrb;Target_FogCloud;Target_CharmPerson;Target_Sleep;Zone_BurningHands;Projectile_MagicMissile;Target_MageArmor;Zone_Thunderwave;Projectile_WitchBolt;Zone_ColorSpray;Shout_DisguiseSelf;Shout_FalseLife;Projectile_RayOfSickness;Shout_ExpeditiousRetreat;Shout_FeatherFall;Target_Jump"/>
+                    <attribute id="UUID" type="guid" value="f80396e2-cb76-4694-b0db-5c34da61a478"/>
+                </node>
             </children>
         </node>
     </region>
 </save>
+
+
