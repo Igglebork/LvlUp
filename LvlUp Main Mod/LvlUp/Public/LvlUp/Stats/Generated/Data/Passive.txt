@@ -33,3 +33,10 @@ data "Conditions" "HasActionResource('ReactionActionPoint', 1, 0, false) and Ene
 data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar"
 data "StatsFunctors" "UseSpell(SWAP,Target_HellishRebuke_5,true,true,true);UseActionResource(ReactionActionPoint,1);RemoveStatus(HELLISH_REBUKE_5)"
 data "StatsFunctorContext" "OnDamaged"
+
+new entry "SorcerousRestoration"
+type "PassiveData"
+data "DisplayName" "Sorcerous Restoration"
+data "Description" "Restore 4 sorcery points whenever you finish a short rest."
+data "StatsFunctors" "RestoreResource(SorceryPoint,4)"
+data "StatsFunctorContext" "OnShortRest"
