@@ -150,11 +150,11 @@
                 </node>
                 <node id="SpellList"> Sorcerer Draconic Flight
                     <attribute id="Spells" type="LSString" value="Shout_DraconicWings;Shout_DraconicWingsCancel"/>
-                    <attribute id="UUID" type="guid" value="d27e53863f9346799f9dbfc6017fcdd2"/>
+                    <attribute id="UUID" type="guid" value="d27e5386-3f93-4679-9f9d-bfc6017fcdd2"/>
                 </node>
                 <node id="SpellList"> Sorcerer Draconic Presence
                     <attribute id="Spells" type="LSString" value="Shout_DraconicPresence_Fear;Shout_DraconicPresence_Awe"/>
-                    <attribute id="UUID" type="guid" value="027d3f7ee3654bd281ccdb542189cd4a"/>
+                    <attribute id="UUID" type="guid" value="027d3f7e-e365-4bd2-81cc-db542189cd4a"/>
                 </node>
             </children>
         </node>
