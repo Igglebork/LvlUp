@@ -2334,7 +2334,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f80396e2-cb76-4694-b0db-5c34da61a478,0,1,SorcererSpell)"/>
                     <attribute id="TableUUID" type="guid" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d"/>
                     <attribute id="UUID" type="guid" value="53c52506c82b4983bf19210b07c09f4d"/>
                 </node>
@@ -2358,7 +2358,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f80396e2-cb76-4694-b0db-5c34da61a478,0,1,SorcererSpell)"/>
                     <attribute id="TableUUID" type="guid" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d"/>
                     <attribute id="UUID" type="guid" value="b2b66decd1a7444d96933c880ea17e03"/>
                 </node>
@@ -2382,7 +2382,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f80396e2-cb76-4694-b0db-5c34da61a478,0,1,SorcererSpell)"/>
                     <attribute id="TableUUID" type="guid" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d"/>
                     <attribute id="UUID" type="guid" value="9c784a7f210249c3b550e9c9913236ad"/>
                 </node>
@@ -2406,7 +2406,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f80396e2-cb76-4694-b0db-5c34da61a478,0,1,SorcererSpell)"/>
                     <attribute id="TableUUID" type="guid" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d"/>
                     <attribute id="UUID" type="guid" value="333f7fff3b4d4119881fc2852ad4da26"/>
                 </node>
@@ -2418,7 +2418,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f80396e2-cb76-4694-b0db-5c34da61a478,0,1,SorcererSpell)"/>
                     <attribute id="TableUUID" type="guid" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d"/>
                     <attribute id="UUID" type="guid" value="32075d7f41954e6bae6c19bbcae80ee0"/>
                 </node>
@@ -2430,7 +2430,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="SorcerousRestoration"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f80396e2-cb76-4694-b0db-5c34da61a478,0,1,SorcererSpell)"/>
                     <attribute id="TableUUID" type="guid" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d"/>
                     <attribute id="UUID" type="guid" value="333f7fff3b4d4119881fc2852ad4da26"/>
                 </node>
