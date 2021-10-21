@@ -1501,3 +1501,16 @@ data "UseCosts" "ActionPoint:1"
 data "WeaponTypes" "Ammunition"
 data "SpellFlags" "CannotTargetItems;CannotTargetTerrain;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful"
 data "MemoryCost" ""
+
+// Extra Attack ---------------------------------------------------------------------------//
+
+new entry "Projectile_ExtraAttack"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_MainHandAttack"
+data "Cooldown" ""
+data "SpellProperties" "GROUND:DealDamage(MainRangedWeapon, MainRangedWeaponDamageType);GROUND:ExecuteWeaponFunctors(MainHand);"
+data "TargetConditions" "not Self() and not Dead()"
+data "DisplayName" "Projectile_ExtraAttack_DisplayName"
+data "UseCosts" "ExtraActionPoint:1"
+data "SpellAnimationIntentType" "Aggressive"
