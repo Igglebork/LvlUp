@@ -72,7 +72,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ProficiencyBonusOverride(3)"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Cleric"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -120,7 +120,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ProficiencyBonusOverride(4)"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Cleric"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -168,7 +168,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ProficiencyBonusOverride(5)"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Cleric"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -216,7 +216,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9);ActionResource(SpellSlot,1,8)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9);ActionResource(SpellSlot,1,8);ProficiencyBonusOverride(6)"/>
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Cleric"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -600,7 +600,7 @@
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ProficiencyBonusOverride(3)"/>
                     <attribute id="Level" type="uint8" value="5"/> 2 lvl3
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -648,7 +648,7 @@
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5);ProficiencyBonusOverride(4)"/>
                     <attribute id="Level" type="uint8" value="9"/> 1 lvl4, 1 lvl5
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -696,7 +696,7 @@
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ProficiencyBonusOverride(5)"/>
                     <attribute id="Level" type="uint8" value="13"/> 1 lvl7
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -744,7 +744,7 @@
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9);ProficiencyBonusOverride(6)"/>
                     <attribute id="Level" type="uint8" value="17"/> 1 lvl9
                     <attribute id="Name" type="LSString" value="Druid"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -948,7 +948,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ExtraAttack,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ExtraAttack,1,0);ProficiencyBonusOverride(3)"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -996,7 +996,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(4)"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1044,7 +1044,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(5)"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1092,7 +1092,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(6)"/>
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1452,7 +1452,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2);ActionResource(ExtraAttack,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2);ActionResource(ExtraAttack,1,0);ProficiencyBonusOverride(3)"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Ranger"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1500,7 +1500,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ProficiencyBonusOverride(4)"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Ranger"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1548,7 +1548,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ProficiencyBonusOverride(5)"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Ranger"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1596,7 +1596,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5);ProficiencyBonusOverride(6)"/>
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Ranger"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1704,7 +1704,7 @@
                 </node>
                 <node id="Progression"> Rogue Lvl 5 - should get uncanny dodge, gets a feat instead.
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(3)"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Rogue"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1752,7 +1752,7 @@
                 </node>
                 <node id="Progression"> Rogue Lvl 9 - subclass feature
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(4)"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Rogue"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1800,7 +1800,7 @@
                 </node>
                 <node id="Progression"> Rogue Lvl 13 - subclass feature
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(5)"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Rogue"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1848,7 +1848,7 @@
                 </node>
                 <node id="Progression"> Rogue Lvl 17 - subclass feature
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(6)"/>
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Rogue"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -2244,7 +2244,7 @@
                 </node>
                 <node id="Progression"> Sorcerer 5 - 1 spell, 2xlvl3 slots, 1 sorcery point
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ActionResource(SorceryPoint,1,0"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ActionResource(SorceryPoint,1,0);ProficiencyBonusOverride(3)"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Sorcerer"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -2292,7 +2292,7 @@
                 </node>
                 <node id="Progression"> Sorcerer 9 - 1 spell, 1xlvl4 slot, 1xlvl5 slot, 1 sorcery point
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSlot,1,4);ActionResource(SorceryPoint,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSlot,1,4);ActionResource(SorceryPoint,1,0);ProficiencyBonusOverride(4)"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Sorcerer"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -2340,7 +2340,7 @@
                 </node>
                 <node id="Progression"> Sorcerer 13 - 1 spell, 1xlvl7 slot, 1 sorcery point
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ActionResource(SorceryPoint,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ActionResource(SorceryPoint,1,0);ProficiencyBonusOverride(5)"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Sorcerer"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -2388,7 +2388,7 @@
                 </node>
                 <node id="Progression"> Sorcerer 17 - 1 spell, 1xlvl9 slot, 1 sorcery point, Metamagic
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9);ActionResource(SorceryPoint,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9);ActionResource(SorceryPoint,1,0);ProficiencyBonusOverride(6)"/>
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Sorcerer"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -2880,13 +2880,13 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,2,3);ActionResourceOverride(WarlockSpellSlot,0,2)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,2,3);ActionResourceOverride(WarlockSpellSlot,0,2);ProficiencyBonusOverride(3)"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Warlock"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(5fa7a83f-ca16-4b51-9331-451f8333da91,1,0,,,,AlwaysPrepared);SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,1,WarlockInvocations)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="17dbf049-c6ba-44f0-9183-30847d25ea37"/>
                 </node>
@@ -2898,7 +2898,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,1,WarlockInvocations)"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="9c14356e-404b-4d32-99ce-5d8435be2a8f"/>
                 </node>
@@ -2910,7 +2910,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,1,WarlockInvocations)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="23955656-459a-40b0-b648-2167e7d223d8"/>
                 </node>
@@ -2928,13 +2928,13 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,2,5);ActionResourceOverride(WarlockSpellSlot,0,4)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,2,5);ActionResourceOverride(WarlockSpellSlot,0,4);ProficiencyBonusOverride(4)"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Warlock"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,1,WarlockInvocations)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="bb998812-dab7-4d0e-aa58-d9b1fb8b3688"/>
                 </node>
@@ -2946,7 +2946,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(f5c4af9c-5d8d-4526-9057-94a4b243cd40,1,0,,,,AlwaysPrepared);SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,1,WarlockInvocations)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f5c4af9c-5d8d-4526-9057-94a4b243cd40,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="f7ded500-4f08-4fe8-b325-85d5b6bbeb86"/>
                 </node>
@@ -2958,7 +2958,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(33db463d-c14f-41ac-b012-9b864b7e2ddb,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="1b0dd7c9-5f14-44e7-8efe-0bf508fd6745"/>
                 </node>
@@ -2970,13 +2970,13 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,1,WarlockInvocations)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="aa4be647-655c-4ad3-a01b-120a78eaa0c7"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,7)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,7);ProficiencyBonusOverride(5)"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Warlock"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -3006,7 +3006,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,1,WarlockInvocations)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="cab4ab1f-b801-411a-b973-a2fc9cb14b7f"/>
                 </node>
@@ -3024,13 +3024,13 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,5);ActionResource(WarlockSpellSlot,1,9)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,5);ActionResource(WarlockSpellSlot,1,9);ProficiencyBonusOverride(6)"/>
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Warlock"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(52d337bb-9c15-4182-80dd-938621f98910,1,0,,,,AlwaysPrepared)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="075bc288-dcd9-468f-86ea-060d556c2db8"/>
                 </node>
@@ -3042,7 +3042,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(333fb1b0-9398-4ca8-953e-6c0f9a59bbed,1,WarlockInvocations)"/>
                     <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
                     <attribute id="UUID" type="guid" value="db40b544-3cf6-4a4a-b25b-22138625048b"/>
                 </node>
@@ -3540,7 +3540,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ProficiencyBonusOverride(3)"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Wizard"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -3588,7 +3588,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5);ProficiencyBonusOverride(4)"/>
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Wizard"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -3636,7 +3636,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ProficiencyBonusOverride(5)"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Wizard"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -3684,7 +3684,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9);ActionResource(SpellSlot,1,8)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9);ActionResource(SpellSlot,1,8);ProficiencyBonusOverride(6)"/>
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Wizard"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
