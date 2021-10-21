@@ -156,6 +156,18 @@
                     <attribute id="Spells" type="LSString" value="Shout_DraconicPresence_Fear;Shout_DraconicPresence_Awe"/>
                     <attribute id="UUID" type="guid" value="027d3f7e-e365-4bd2-81cc-db542189cd4a"/>
                 </node>
+				<node id="SpellList"> Warlock Lvl 5 Eldritch Blast
+                    <attribute id="Spells" type="LSString" value="Projectile_EldritchBlast2"/>
+                    <attribute id="UUID" type="guid" value="5fa7a83f-ca16-4b51-9331-451f8333da91"/>
+                </node>
+				<node id="SpellList"> Warlock Lvl 11 Eldritch Blast
+                    <attribute id="Spells" type="LSString" value="Projectile_EldritchBlast3"/>
+                    <attribute id="UUID" type="guid" value="33db463d-c14f-41ac-b012-9b864b7e2ddb"/>
+                </node>
+				<node id="SpellList"> Warlock Lvl 17 Eldritch Blast
+                    <attribute id="Spells" type="LSString" value="Projectile_EldritchBlast4"/>
+                    <attribute id="UUID" type="guid" value="52d337bb-9c15-4182-80dd-938621f98910"/>
+                </node>
             </children>
         </node>
     </region>
