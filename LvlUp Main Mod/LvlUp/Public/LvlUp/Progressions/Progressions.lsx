@@ -306,7 +306,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(8c47b11c-88b4-49a5-99d0-804ab724365e,1,0,,,,AlwaysPrepared);AddSpells(8c47b11c-88b4-49a5-99d0-804ab724365)"/>Lvl 1 Spells + Cantrip
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(8c47b11c-88b4-49a5-99d0-804ab724365e,1,0,,,,AlwaysPrepared);AddSpells(4d44616a97f74408b9974abeb9395f65)"/>Lvl 1 Spells + Cantrip
                     <attribute id="TableUUID" type="guid" value="add4ea4d-5a82-4959-af4f-2569248d7dfc9"/>
                     <attribute id="UUID" type="guid" value="cb42861a-efb6-4e69-b484-55f34faec609"/>
                 </node>
