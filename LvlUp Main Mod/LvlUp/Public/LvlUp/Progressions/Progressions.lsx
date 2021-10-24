@@ -1739,7 +1739,7 @@
                     <attribute id="UUID" type="guid" value="ca43e06b-c2cb-46ab-a9cf-39852a903113"/>
                 </node>
                 <node id="Progression"> Rogue Lvl 8 - asi
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="Rogue"/>
