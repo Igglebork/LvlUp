@@ -110,7 +110,7 @@
                 </node>
                 <node id="SpellList"> Death Cleric Lvl 1 Spells
                     <attribute id="Spells" type="LSString" value="Shout_FalseLife;Projectile_RayOfSickness"/>
-                    <attribute id="UUID" type="guid" value="8c47b11c-88b4-49a5-99d0-804ab724365"/>
+                    <attribute id="UUID" type="guid" value="4d44616a97f74408b9974abeb9395f65"/>
                 </node>
                 <node id="SpellList"> Death Cleric Lvl 2 Spells (Cleric LVl 3)
                     <attribute id="Spells" type="LSString" value="Target_Blindness;Projectile_RayOfEnfeeblement;Target_Deafness"/>
