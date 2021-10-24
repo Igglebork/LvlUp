@@ -2408,7 +2408,7 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="SelectSpells(f80396e2-cb76-4694-b0db-5c34da61a478,0,1,SorcererSpell)"/>
                     <attribute id="TableUUID" type="guid" value="e2416b02-953a-4ce8-aa8f-eb98d549d86d"/>
-                    <attribute id="UUID" type="guid" value="333f7fff3b4d4119881fc2852ad4da26"/>
+                    <attribute id="UUID" type="guid" value="ae8d704995e442bcbcc7cfea825006eb"/>
                 </node>
                 <node id="Progression"> Sorcerer 19 - 1xlvl6 slot, 1 sorcery point, ASI
                     <attribute id="AllowImprovement" type="bool" value="true"/>
