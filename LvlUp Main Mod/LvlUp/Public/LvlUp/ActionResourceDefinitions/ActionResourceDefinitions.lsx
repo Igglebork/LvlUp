@@ -4,18 +4,19 @@
     <region id="ActionResourceDefinitions">
         <node id="root">
             <children>
-                <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="FixedString" value="ActionResourceDefinitions_New_Stat_15_Description"/>
-                    <attribute id="DiceType" type="uint32" value="0"/>
-                    <attribute id="DisplayName" type="FixedString" value="ActionResourceDefinitions_New_Stat_15_DisplayName"/>
-                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_15_Error"/>
+				<node id="ActionResourceDefinition">
+                    <attribute id="Description" type="FixedString" value="Action Surge uses"/>
+                    <attribute id="DiceType" type="uint32" value="8"/>
+                    <attribute id="DisplayName" type="FixedString" value="ActionSurge"/>
+                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_8_Error"/>
                     <attribute id="IsSpellResource" type="bool" value="false"/>
                     <attribute id="MaxLevel" type="uint32" value="0"/>
-                    <attribute id="Name" type="FixedString" value="ExtraAttack"/>
+                    <attribute id="MaxValue" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="ActionSurge"/>
                     <attribute id="PartyActionResource" type="bool" value="false"/>
-                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
-                    <attribute id="UUID" type="guid" value="6817b9fc-0326-4640-82cd-042fc4c8bb04"/>
+                    <attribute id="UUID" type="guid" value="24cbc154-7b9d-46dd-bc7b-0516aceaca88"/>
                     <attribute id="UpdatesSpellPowerLevel" type="bool" value="false"/>
                 </node>
             </children>
