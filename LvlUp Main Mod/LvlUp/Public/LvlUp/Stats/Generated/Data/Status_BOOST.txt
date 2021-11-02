@@ -1,3 +1,12 @@
+new entry "HYPNOTIC_PATTERN"
+type "StatusData"
+data "StatusType" "INCAPACITATED"
+data "DisplayName" "Status_INCAPACITATED_HYPNOTIC_PATTERN_DisplayName"
+data "Description" "Status_INCAPACITATED_HYPNOTIC_PATTERN_Description"
+data "Icon" "unknown"
+data "Boosts" "ActionResourceBlock(Movement);"
+data "StatusGroups" "SG_Incapacitated;SG_Condition"
+
 new entry "SPIRIT_GUARDIANS"
 type "StatusData"
 data "StatusType" "BOOST"
