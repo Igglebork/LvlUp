@@ -4,12 +4,16 @@
     <region id="SpellLists">
         <node id="root">
             <children>
+                <node id="SpellList"> Cleric lvl 3 Spells
+                    <attribute id="Spells" type="LSString" value="Shout_SpiritGuardians_Cleric;Shout_Aid;Target_Blindness;Target_EnhanceAbility;Target_HoldPerson;Target_LesserRestoration;Shout_PrayerOfHealing;Target_ProtectionFromPoison;Target_Silence"/>
+                    <attribute id="UUID" type="guid" value="2968a3e6-6c8a-4c2e-882a-ad295a2ad8ac"/>
+                </node>
                 <node id="SpellList"> Cleric Life Domain 5
                     <attribute id="Spells" type="LSString" value="Target_Sleep;Target_Command_Halt;Target_Command_Approach;Target_Command_Drop;Target_Command_Flee;Target_Command_Grovel;Target_Revivify;Target_RaiseDead;Shout_DivineFavor"/>
                     <attribute id="UUID" type="guid" value="e8530394-bc38-4f60-9849-ae3dd2bc04ee"/>
                 </node>
                 <node id="SpellList"> Cleric 7 Spells
-                    <attribute id="Spells" type="LSString" value="Target_Banishment;Shout_BeaconOfHope;Shout_SpiritGuardians_Cleric;Target_CalmEmotions;Target_EnhanceAbility;Shout_HealingWord_Mass;Shout_DetectEvilAndGood;Shout_ComprehendLanguages;Target_BestowCurse_Ability;Target_Sanctuary;Target_RemoveCurse"/>
+                    <attribute id="Spells" type="LSString" value="Target_Banishment;Shout_BeaconOfHope;Target_CalmEmotions;Target_EnhanceAbility;Shout_HealingWord_Mass;Shout_DetectEvilAndGood;Shout_ComprehendLanguages;Target_BestowCurse_Ability;Target_Sanctuary;Target_RemoveCurse"/>
                     <attribute id="UUID" type="guid" value="64b1cccc-83fe-43d5-befe-cf6fd4c77eec"/>
                 </node>
                 <node id="SpellList"> Cleric 7 Actions
