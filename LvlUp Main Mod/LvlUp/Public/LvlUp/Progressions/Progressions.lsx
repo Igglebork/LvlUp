@@ -900,7 +900,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ActionSurge,1,0)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -1092,7 +1092,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(6)"/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonusOverride(6);ActionResource(ActionSurge,1,0)"/>
                     <attribute id="Level" type="uint8" value="17"/>
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
