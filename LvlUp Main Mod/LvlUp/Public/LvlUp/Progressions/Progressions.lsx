@@ -102,7 +102,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Rage,1,0);"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Barbarian"/>
                     <attribute id="PassivesAdded" type="LSString" value="Brutal_Critical_Barbarian_2;ProficiencyBonusOverride(5)"/>
